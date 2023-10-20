@@ -1,0 +1,24 @@
+lists of assignmnents to be submitted on 20th of october
+
+ASSIGNMNT1
+http://localhost:8888/notebooks/ASSIGNMNT1.ipynb
+
+ASSGNMNT2
+http://localhost:8888/notebooks/ASSGNMNT2.ipynb
+
+ASSGNMNT3
+http://localhost:8888/notebooks/ASSIGNMNT3.ipynb
+
+ASSGNMNT4
+http://localhost:8888/notebooks/ASSIGNMENT4.ipynb
+
+ASSGNMNT5
+http://localhost:8888/notebooks/ASSGNMNTT5.ipynb
+
+ASSGNMNT6
+http://localhost:8888/notebooks/ASSGNMNT6.ipynb
+
+ASSGNMNT7
+http://localhost:8888/notebooks/ASSGNMNT7.ipynb
+
+ASSGNMNT8
